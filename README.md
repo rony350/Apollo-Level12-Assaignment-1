@@ -7,4 +7,12 @@ Here I solved 8 assaigment and 2 blog posts
 
 # Blog post
 
-blog-typescript's acceps modifier
+# TypeScript Blogs
+
+## 1. Access Modifiers
+
+[Read Blog](./blog-typescript's-access-modifier.md)
+
+## 2. Type Hierarchy
+
+[Read Blog](./blog-typescript's-type-hierarchy.md)
